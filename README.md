@@ -1,4 +1,4 @@
-Hello, I'm Joe. Through this Github I plan to share and learn from the worldwide developer community about writing code in YAML,Terraform, Python, JSON
+Hello, I'm Joe. Through this platform I plan to share and learn from the worldwide developer community about writing code in YAML,Terraform, Python, JSON
 and cloud specific services. 
 
 <!---
